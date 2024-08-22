@@ -1,0 +1,6 @@
+Django==5.1
+aiogram==3.4.0
+environs
+djangorestframework
+drf-yasg
+setuptools
